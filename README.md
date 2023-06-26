@@ -6,7 +6,7 @@
 - [星月雲探索地圖簡介](https://smct.vercel.app/#map)
 
 ### 現行採用模組
-| Client Side Mods |Intro.| Link |
+| Mods Name |Intro.| Link |
 | ------------------ | ------ | ------ |
 | Fabric API         | 核心套件    | https://modrinth.com/mod/fabric-api |
 | Mod Menu           | 核心套件    | https://modrinth.com/mod/modmenu |
@@ -27,12 +27,14 @@
 | Bits And Chisels   | 迷你磚塊    | https://modrinth.com/mod/bits-and-chisels |
 | Blur               | 菜單背景模糊效果    | https://modrinth.com/mod/blur-fabric |
 | SMCT mini MAP      | 特製版小地圖    | |
-伺服器端模組
+
+#### 伺服器端模組
 | SERVER Side Only |Intro.| Link |
 | ------------------ | ------ | ------ |
 | Dynamic View | 根據延遲多寡動態調節視野距離 | https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric |
 | FallingTree | 快速砍樹插件 | https://modrinth.com/mod/fallingtree |
 | WorldEdit | 小木斧插件 | https://www.curseforge.com/minecraft/mc-mods/worldedit |
+
 
 # 歷年更新紀錄
 

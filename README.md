@@ -6,10 +6,27 @@
 - [星月雲探索地圖簡介](https://smct.vercel.app/#map)
 
 ### 現行採用模組
-| Name | Link |
-| ---------------- | ------ |
-| Goerli testnet   | ✅     |
-| Mainnet          | 🚧     |
+| Name |Intro.| Link |
+| ------------------ | ------ | ------ |
+| Fabric API         | ✅     |
+| Sodium             | 🚧     |
+| Iris Shaders       | ✅     |
+| Lithium            | ✅     |
+| LazyDFU            | ✅     |
+| Entity Culling     | ✅     |
+| Mod Menu           | ✅     |
+| Starlight          | ✅     |
+| Indium             | ✅     |
+| Fabric Kotlin      | ✅     |
+| FerriteCore        | ✅     |
+| Krypton            | ✅     |
+| Adorn              | ✅    |
+| Exline's Furniture | ✅    |
+| Krypton            | ✅     |
+| Adorn              | ✅    |
+| Bits And Chisels   | ✅    |
+| Blur               | ✅    |
+| SMCT mini MAP      | ✅    |
 
 
 # 歷年更新紀錄

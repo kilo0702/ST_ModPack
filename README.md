@@ -6,28 +6,32 @@
 - [星月雲探索地圖簡介](https://smct.vercel.app/#map)
 
 ### 現行採用模組
-| Name |Intro.| Link |
+| Client Side Mods |Intro.| Link |
 | ------------------ | ------ | ------ |
-| Fabric API         | ✅     |
-| Sodium             | 🚧     |
-| Iris Shaders       | ✅     |
-| Lithium            | ✅     |
-| LazyDFU            | ✅     |
-| Entity Culling     | ✅     |
-| Mod Menu           | ✅     |
-| Starlight          | ✅     |
-| Indium             | ✅     |
-| Fabric Kotlin      | ✅     |
-| FerriteCore        | ✅     |
-| Krypton            | ✅     |
-| Adorn              | ✅    |
-| Exline's Furniture | ✅    |
-| Krypton            | ✅     |
-| Adorn              | ✅    |
-| Bits And Chisels   | ✅    |
-| Blur               | ✅    |
-| SMCT mini MAP      | ✅    |
-
+| Fabric API         | 核心套件    | https://modrinth.com/mod/fabric-api |
+| Mod Menu           | 核心套件    | https://modrinth.com/mod/modmenu |
+| Sodium             | 效能提升    | https://modrinth.com/mod/sodium |
+| Lithium            | 效能提升    | https://modrinth.com/mod/lithium |
+| Indium             | 效能提升    | https://modrinth.com/mod/indium |
+| Entity Culling     | 效能提升    | https://modrinth.com/mod/entityculling |
+| Starlight          | 算法提升    | https://modrinth.com/mod/starlight |
+| Iris Shaders       | 支援光影    | https://modrinth.com/mod/iris |
+| LazyDFU            | 啟動加速    | https://modrinth.com/mod/lazydfu |
+| FerriteCore        | 記憶體優化  | https://modrinth.com/mod/ferrite-core |
+| Krypton            | 降CPU負載  | https://modrinth.com/mod/krypton |
+| Farsight           | 視野距離提升| https://www.curseforge.com/minecraft/mc-mods/farsight-fabric |
+| FpsReducer         | 掛機時降低電腦負載 | https://www.curseforge.com/minecraft/mc-mods/fps-reducer |
+| Fabric Kotlin      | Adorn模組依賴 | https://modrinth.com/mod/fabric-language-kotlin |
+| Adorn              | 家具模組    | https://modrinth.com/mod/adorn |
+| Exline's Furniture | 家具模組    | https://modrinth.com/mod/exlines-furniture |
+| Bits And Chisels   | 迷你磚塊    | https://modrinth.com/mod/bits-and-chisels |
+| Blur               | 菜單背景模糊效果    | https://modrinth.com/mod/blur-fabric |
+| SMCT mini MAP      | 特製版小地圖    | |
+| ------------------ | ------ | ------ |
+| SERVER Side Only |Intro.| Link |
+| Dynamic View | 根據延遲多寡動態調節視野距離 | https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric |
+| FallingTree | 快速砍樹插件 | https://modrinth.com/mod/fallingtree |
+| WorldEdit | 小木斧插件 | https://www.curseforge.com/minecraft/mc-mods/worldedit |
 
 # 歷年更新紀錄
 

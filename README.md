@@ -23,6 +23,7 @@
 | ------------------ | ------ | ------ |
 | Fabric API         | 核心套件    | https://modrinth.com/mod/fabric-api |
 | Mod Menu           | 核心套件    | https://modrinth.com/mod/modmenu |
+| Better Ping Display| 顯示玩家ping| https://modrinth.com/mod/better-ping-display-fabric |
 | Sodium             | 效能提升    | https://modrinth.com/mod/sodium |
 | Lithium            | 效能提升    | https://modrinth.com/mod/lithium |
 | Indium             | 效能提升    | https://modrinth.com/mod/indium |

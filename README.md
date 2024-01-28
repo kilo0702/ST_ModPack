@@ -10,7 +10,6 @@
 - **Adorn & Exlinefurniture**：適用於Fabric的家具模組
 - **Bitsandchisels & Indium**：適用於Fabric的新版小磚塊模組
 - **Iris**：適用於Fabric的光影引擎
-- **Farsight**：在伺服器中能載入超過10的範圍
 - **FpsReducer**：掛機時降低遊戲FPS，省電不負載 
 - **LazyDuf**：啟動遊戲速度加快，大幅降低啟動遊戲時CPU負載
 - **Sodium**：改變地圖載入方式，大幅提升FPS

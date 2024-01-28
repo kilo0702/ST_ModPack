@@ -25,7 +25,6 @@
 | Adorn              | 家具模組    | https://modrinth.com/mod/adorn |
 | Exline's Furniture | 家具模組    | https://modrinth.com/mod/exlines-furniture |
 | Bits And Chisels   | 迷你磚塊    | https://modrinth.com/mod/bits-and-chisels |
-| Blur               | 菜單背景模糊效果    | https://modrinth.com/mod/blur-fabric |
 | SMCT mini MAP      | 特製版小地圖    | |
 
 #### 伺服器端模組

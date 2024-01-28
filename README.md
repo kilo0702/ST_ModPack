@@ -33,7 +33,6 @@
 | LazyDFU            | 啟動加速    | https://modrinth.com/mod/lazydfu |
 | FerriteCore        | 記憶體優化  | https://modrinth.com/mod/ferrite-core |
 | Krypton            | 降CPU負載  | https://modrinth.com/mod/krypton |
-| Farsight           | 視野距離提升| https://www.curseforge.com/minecraft/mc-mods/farsight-fabric |
 | FpsReducer         | 掛機時降低電腦負載 | https://www.curseforge.com/minecraft/mc-mods/fps-reducer |
 | Fabric Kotlin      | Adorn模組依賴 | https://modrinth.com/mod/fabric-language-kotlin |
 | Adorn              | 家具模組    | https://modrinth.com/mod/adorn |

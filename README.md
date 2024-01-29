@@ -31,10 +31,12 @@
 | Fabric Kotlin      | Adorn模組依賴    | [詳細資料](https://modrinth.com/mod/fabric-language-kotlin) |
 | FerriteCore        | 記憶體優化       | [詳細資料](https://modrinth.com/mod/ferrite-core) |
 | FpsReducer         | 掛機時降低電腦負載 | [詳細資料](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) |
+| ImmediatelyFast    | 提高即時渲染性能  | [詳細資料](https://modrinth.com/mod/immediatelyfast) |
 | Indium             | 效能提升         | [詳細資料](https://modrinth.com/mod/indium) |
 | Iris Shaders       | 支援光影         | [詳細資料](https://modrinth.com/mod/iris) |
 | Krypton            | 降CPU負載       | [詳細資料](https://modrinth.com/mod/krypton) |
 | Lithium            | 效能提升        | [詳細資料](https://modrinth.com/mod/lithium) |
+| ModernFix          | 減少記憶體用量   | [詳細資料](https://modrinth.com/mod/modernfix) |
 | Mod Menu           | 核心套件        | [詳細資料](https://modrinth.com/mod/modmenu) |
 | SMCT mini MAP      | 特製版小地圖     | |
 | Sodium             | 效能大幅提升     | [詳細資料](https://modrinth.com/mod/sodium) |
@@ -48,7 +50,7 @@
 | WorldEdit   | 萬能小木斧 | [詳細資料](https://www.curseforge.com/minecraft/mc-mods/worldedit) |
 
 
-## 📈歷年更新紀錄
+## 📈先前更新紀錄
 
 ### <2022.07.13>---------大更新
 

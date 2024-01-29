@@ -34,11 +34,10 @@
 | Indium             | 效能提升         | [詳細資料](https://modrinth.com/mod/indium) |
 | Iris Shaders       | 支援光影         | [詳細資料](https://modrinth.com/mod/iris) |
 | Krypton            | 降CPU負載       | [詳細資料](https://modrinth.com/mod/krypton) |
-| LazyDFU            | 啟動加速        | [詳細資料](https://modrinth.com/mod/lazydfu) |
 | Lithium            | 效能提升        | [詳細資料](https://modrinth.com/mod/lithium) |
 | Mod Menu           | 核心套件        | [詳細資料](https://modrinth.com/mod/modmenu) |
 | SMCT mini MAP      | 特製版小地圖     | |
-| Sodium             | 效能提升        | [詳細資料](https://modrinth.com/mod/sodium) |
+| Sodium             | 效能大幅提升     | [詳細資料](https://modrinth.com/mod/sodium) |
 | Starlight          | 算法提升        | [詳細資料](https://modrinth.com/mod/starlight) |
 
 #### 🌐伺服器端附加模組

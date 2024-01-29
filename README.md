@@ -19,33 +19,34 @@
 
 ## 📂現行採用模組📌
 #### 😊客戶端模組
-| Mods Name |Intro.| Link |
+| Name |Intro.| Link |
 | ------------------ | ------ | ------ |
-| Fabric API         | 核心套件    | https://modrinth.com/mod/fabric-api |
-| Mod Menu           | 核心套件    | https://modrinth.com/mod/modmenu |
-| Better Ping Display| 顯示玩家ping| https://modrinth.com/mod/better-ping-display-fabric |
-| Sodium             | 效能提升    | https://modrinth.com/mod/sodium |
-| Lithium            | 效能提升    | https://modrinth.com/mod/lithium |
-| Indium             | 效能提升    | https://modrinth.com/mod/indium |
-| Entity Culling     | 效能提升    | https://modrinth.com/mod/entityculling |
-| Starlight          | 算法提升    | https://modrinth.com/mod/starlight |
-| Iris Shaders       | 支援光影    | https://modrinth.com/mod/iris |
-| LazyDFU            | 啟動加速    | https://modrinth.com/mod/lazydfu |
-| FerriteCore        | 記憶體優化  | https://modrinth.com/mod/ferrite-core |
-| Krypton            | 降CPU負載  | https://modrinth.com/mod/krypton |
-| FpsReducer         | 掛機時降低電腦負載 | https://www.curseforge.com/minecraft/mc-mods/fps-reducer |
-| Fabric Kotlin      | Adorn模組依賴 | https://modrinth.com/mod/fabric-language-kotlin |
-| Adorn              | 家具模組    | https://modrinth.com/mod/adorn |
-| Exline's Furniture | 家具模組    | https://modrinth.com/mod/exlines-furniture |
-| Bits And Chisels   | 迷你磚塊    | https://modrinth.com/mod/bits-and-chisels |
-| SMCT mini MAP      | 特製版小地圖    | |
+| Adorn              | 家具模組         | [詳細資料](https://modrinth.com/mod/adorn) |
+| Automobility       | 載具模組         | [詳細資料](https://modrinth.com/mod/automobility) |
+| Better Ping Display| 顯示玩家ping     | [詳細資料](https://modrinth.com/mod/better-ping-display-fabric) |
+| Bits And Chisels   | 迷你磚塊         | [詳細資料](https://modrinth.com/mod/bits-and-chisels) |
+| Entity Culling     | 效能提升         | [詳細資料](https://modrinth.com/mod/entityculling) |
+| Exline's Furniture | 家具模組         | [詳細資料](https://modrinth.com/mod/exlines-furniture) |
+| Fabric API         | 核心套件         | [詳細資料](https://modrinth.com/mod/fabric-api) |
+| Fabric Kotlin      | Adorn模組依賴    | [詳細資料](https://modrinth.com/mod/fabric-language-kotlin) |
+| FerriteCore        | 記憶體優化       | [詳細資料](https://modrinth.com/mod/ferrite-core) |
+| FpsReducer         | 掛機時降低電腦負載 | [詳細資料](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) |
+| Indium             | 效能提升         | [詳細資料](https://modrinth.com/mod/indium) |
+| Iris Shaders       | 支援光影         | [詳細資料](https://modrinth.com/mod/iris) |
+| Krypton            | 降CPU負載       | [詳細資料](https://modrinth.com/mod/krypton) |
+| LazyDFU            | 啟動加速        | [詳細資料](https://modrinth.com/mod/lazydfu) |
+| Lithium            | 效能提升        | [詳細資料](https://modrinth.com/mod/lithium) |
+| Mod Menu           | 核心套件        | [詳細資料](https://modrinth.com/mod/modmenu) |
+| SMCT mini MAP      | 特製版小地圖     | |
+| Sodium             | 效能提升        | [詳細資料](https://modrinth.com/mod/sodium) |
+| Starlight          | 算法提升        | [詳細資料](https://modrinth.com/mod/starlight) |
 
-#### 🌐伺服器端模組
-| SERVER Side Only |Intro.| Link |
+#### 🌐伺服器端附加模組
+| SERVER Side |Intro.| Link |
 | ------------------ | ------ | ------ |
-| Dynamic View | 根據延遲多寡動態調節視野距離 | https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric |
-| FallingTree | 快速砍樹插件 | https://modrinth.com/mod/fallingtree |
-| WorldEdit | 小木斧插件 | https://www.curseforge.com/minecraft/mc-mods/worldedit |
+| Dynamic View| 根據延遲動態調節視野距離 | [詳細資料](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric) |
+| FallingTree | 快速砍樹 | [詳細資料](https://modrinth.com/mod/fallingtree) |
+| WorldEdit   | 萬能小木斧 | [詳細資料](https://www.curseforge.com/minecraft/mc-mods/worldedit) |
 
 
 ## 📈歷年更新紀錄

@@ -8,13 +8,13 @@
 - **Sodium & Lithium**：改變地圖載入方式，大幅提升FPS
 - **Entityculling**：跳過運算不可視方塊，大幅提升遊戲體驗
 - **Adorn & Exlinefurniture**：適用於Fabric的家具模組
-- **Automobility：適用於Fabric的載具模組
+- **Automobility**：適用於Fabric的載具模組
 - **Bitsandchisels & Indium**：適用於Fabric的新版小磚塊模組
 - **Iris**：適用於Fabric的光影引擎
 - **FpsReducer**：掛機時降低遊戲FPS，省電不負載 
 - **Sodium**：改變地圖載入方式，大幅提升FPS
 - **Entityculling**：不運算不可見方塊，大幅節省電腦負載
-- **ImmediatelyFast：為老電腦CPU/GPU流暢度提升
+- **ImmediatelyFast**：為老電腦CPU/GPU流暢度提升
 - **ModernFix**：讓遊戲記憶體占用量近乎砍半
 - **Starlight**：新的遊戲光罩引擎，大幅改善體驗
 - **STcloud Map**：星月雲優化版小地圖

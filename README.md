@@ -15,4 +15,4 @@
 - **Sodium**：改變地圖載入方式，大幅提升FPS
 - **Entityculling**：不運算不可見方塊，大幅節省電腦負載
 - **ImmediatelyFast**：為老電腦CPU/GPU流暢度提升
-- **STcloud Map**：星月雲優化版小地圖
+- **JourneyMap**：可以多人連線顯示位置的小地圖
